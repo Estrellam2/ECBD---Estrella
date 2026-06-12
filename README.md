@@ -1,6 +1,8 @@
 # ECBD---Estrella
 Repositorio de practica de materia Extracción de Conocimiento
+
 Nombre del alumno:Rosy Estrella Morales Soto
+
 Materia:Extracción del conocimiento de Base de Datos
 Cuatrimestre: 9° B 
 Descripcion general: Este repositorio contiene las prácticas de laboratorio 
