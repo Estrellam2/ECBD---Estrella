@@ -4,8 +4,8 @@ Nombre del alumno:Rosy Estrella Morales Soto
 Materia:Extracción del conocimiento de Base de Datos
 Cuatrimestre: 9° B 
 Descripcion general: Este repositorio contiene las prácticas de laboratorio 
-desarrolladas durante el primer parcial de la materia. Cada notebook aplica técnicas de 
-análisis de datos reales, desde la limpieza y exploración hasta la visualización e 
+desarrolladas durante el primer parcial de la materia. Cada notebook aplica técnica 
+de análisis de datos reales, desde la limpieza y exploración hasta la visualización e 
 interpretación de resultados, siguiendo el modelo
  Objetivo:
 Limpieza y preprocesamiento de datos
