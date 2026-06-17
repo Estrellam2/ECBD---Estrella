@@ -1,0 +1,5 @@
+id_cliente,id_producto,id_tiempo,cantidad,monto
+1,1,1,2,30000
+2,2,2,5,2500
+3,3,3,3,4500
+4,4,4,1,7000
